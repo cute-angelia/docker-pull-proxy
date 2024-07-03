@@ -1,1 +1,1 @@
-minio/minio:latest registry.cn-hangzhou.aliyuncs.com/malibest/minio:latest
+minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malibest/minio:RELEASE.2022-05-26T05-48-41Z
