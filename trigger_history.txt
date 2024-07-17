@@ -1,1 +1,2 @@
 minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malibest/minio:RELEASE.2022-05-26T05-48-41Z
+ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/malibest/bookmark:latest
