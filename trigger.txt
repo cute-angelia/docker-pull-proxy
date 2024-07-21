@@ -1,2 +1,1 @@
-louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/malibest/uptime-kuma:latest
-deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:latest
+xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag_web:latest

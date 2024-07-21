@@ -1,2 +1,14 @@
+# minio
 minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malibest/minio:RELEASE.2022-05-26T05-48-41Z
+
+# bookmark
 ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/malibest/bookmark:latest
+
+# 监控
+louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/malibest/uptime-kuma:latest
+
+# 音乐🎵
+deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:latest
+
+# 音乐标签
+xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag_web:latest
