@@ -1,13 +1,16 @@
 # minio
 minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malibest/minio:RELEASE.2022-05-26T05-48-41Z
 
-# bookmark
+# https://github.com/cute-angelia/bookmark 书签工具
 ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/malibest/bookmark:latest
 
-# 监控
+# https://github.com/cute-angelia/wol-fork 局域网唤醒
+ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
+
+# 服务监控
 louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/malibest/uptime-kuma:latest
 
-# 音乐🎵
+# 音乐系统🎵
 deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:latest
 
 # 音乐标签

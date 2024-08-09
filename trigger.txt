@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/malibest/rustdesk-server:latest
+ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
