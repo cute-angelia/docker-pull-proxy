@@ -1,1 +1,1 @@
-xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag_web:latest
+rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/malibest/rustdesk-server:latest
