@@ -12,3 +12,6 @@ deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:lat
 
 # 音乐标签
 xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag_web:latest
+
+# 远程控制
+rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/malibest/rustdesk-server:latest
