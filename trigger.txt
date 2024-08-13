@@ -1,1 +1,1 @@
-xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/xdbin/beancount-gs:latest
+xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/beancount-gs:latest
