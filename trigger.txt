@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
+xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/xdbin/beancount-gs:latest

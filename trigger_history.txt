@@ -18,3 +18,6 @@ xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag
 
 # 远程控制
 rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/malibest/rustdesk-server:latest
+
+# 个人财物记账系统
+xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/xdbin/beancount-gs:latest
