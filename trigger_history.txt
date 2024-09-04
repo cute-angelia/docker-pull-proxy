@@ -21,3 +21,6 @@ rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/malibest/rustd
 
 # 个人财物记账系统
 xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/xdbin/beancount-gs:latest
+
+# 使用Docker搭建自己的Bitwarden密码管理服务
+vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/malibest/vaultwarden-server:latest

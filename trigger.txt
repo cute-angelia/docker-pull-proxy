@@ -1,1 +1,1 @@
-xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/beancount-gs:latest
+vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/malibest/vaultwarden-server:latest
