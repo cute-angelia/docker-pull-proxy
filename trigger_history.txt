@@ -24,3 +24,6 @@ xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/xdbin/beanc
 
 # 使用Docker搭建自己的Bitwarden密码管理服务
 vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/malibest/vaultwarden-server:latest
+
+# chromedp 浏览器
+chromedp/headless-shell:latest registry.cn-hangzhou.aliyuncs.com/malibest/chromedp-headless-shell:latest

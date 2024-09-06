@@ -1,1 +1,1 @@
-vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/malibest/vaultwarden-server:latest
+chromedp/headless-shell:latest registry.cn-hangzhou.aliyuncs.com/malibest/chromedp-headless-shell:latest
