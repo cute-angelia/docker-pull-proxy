@@ -1,1 +1,1 @@
-chromedp/headless-shell:latest registry.cn-hangzhou.aliyuncs.com/malibest/chromedp-headless-shell:latest
+ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
