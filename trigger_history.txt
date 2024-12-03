@@ -27,3 +27,6 @@ vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/malibest/vaultwarden
 
 # chromedp 浏览器
 chromedp/headless-shell:latest registry.cn-hangzhou.aliyuncs.com/malibest/chromedp-headless-shell:latest
+
+# stork python
+mayanghua/instock:latest registry.cn-hangzhou.aliyuncs.com/malibest/instock:latest

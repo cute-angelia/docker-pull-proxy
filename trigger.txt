@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
+mayanghua/instock:latest registry.cn-hangzhou.aliyuncs.com/malibest/instock:latest
