@@ -30,3 +30,6 @@ chromedp/headless-shell:latest registry.cn-hangzhou.aliyuncs.com/malibest/chrome
 
 # stork python
 mayanghua/instock:latest registry.cn-hangzhou.aliyuncs.com/malibest/instock:latest
+
+# mysql 8.2.0
+mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/malibest/mysql:8.2.0
