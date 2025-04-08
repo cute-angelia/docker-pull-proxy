@@ -33,3 +33,5 @@ mayanghua/instock:latest registry.cn-hangzhou.aliyuncs.com/malibest/instock:late
 
 # mysql 8.2.0
 mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/malibest/mysql:8.2.0
+
+# mysql a308057848 账号 mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/mybest/mysql:8.2.0
