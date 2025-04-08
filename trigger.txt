@@ -1,1 +1,1 @@
-mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/best/mysql:8.2.0
+mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/mybest/mysql:8.2.0
