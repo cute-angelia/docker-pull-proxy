@@ -1,1 +1,1 @@
-redis:7.2.0-alpine registry.cn-hangzhou.aliyuncs.com/mybest/redis:7.2.0-alpine
+getmeili/meilisearch:v1.19.1 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.19.1
