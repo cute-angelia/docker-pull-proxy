@@ -1,1 +1,1 @@
-getmeili/meilisearch:v1.19.1 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.19.1
+hkalexling/mango:v0.27.0 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v0.27.0

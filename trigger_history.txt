@@ -38,3 +38,6 @@ mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/malibest/mysql:8.2.0
 
 # redis 
 redis:7.2.0-alpine registry.cn-hangzhou.aliyuncs.com/mybest/redis:7.2.0-alpine
+
+# meilisearch 美丽搜索
+getmeili/meilisearch:v1.19.1 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.19.1
