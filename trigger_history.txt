@@ -41,3 +41,9 @@ redis:7.2.0-alpine registry.cn-hangzhou.aliyuncs.com/mybest/redis:7.2.0-alpine
 
 # meilisearch 美丽搜索
 getmeili/meilisearch:v1.19.1 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.19.1
+getmeili/meilisearch:v1.23.0 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.23.0
+
+# mango
+hkalexling/mango:v0.27.0 registry.cn-hangzhou.aliyuncs.com/mybest/mango:v0.27.0
+
+
