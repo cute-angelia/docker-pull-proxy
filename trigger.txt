@@ -1,0 +1,1 @@
+hectorqin/reader:latest registry.cn-hangzhou.aliyuncs.com/mybest/reader:latest
