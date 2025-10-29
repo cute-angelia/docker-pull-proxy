@@ -1,1 +1,1 @@
-blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
+blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
