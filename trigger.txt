@@ -1,2 +1,0 @@
-blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
-postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14

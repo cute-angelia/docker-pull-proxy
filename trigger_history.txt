@@ -46,4 +46,12 @@ getmeili/meilisearch:v1.23.0 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearc
 # mango
 hkalexling/mango:v0.27.0 registry.cn-hangzhou.aliyuncs.com/mybest/mango:v0.27.0
 
+# blinko
+blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
+
+# postgres
+postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14
+
+# reader 放弃了，java的
+hectorqin/reader:latest registry.cn-hangzhou.aliyuncs.com/mybest/reader:latest
 
