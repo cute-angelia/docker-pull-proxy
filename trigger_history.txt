@@ -48,6 +48,10 @@ hkalexling/mango:v0.27.0 registry.cn-hangzhou.aliyuncs.com/mybest/mango:v0.27.0
 
 # blinko
 blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
+# blinko 只有这个版本
+blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
+# 我自己打包了一个版本
+ghcr.io/cute-angelia/blinko:1.0.0 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.0
 
 # postgres
 postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14

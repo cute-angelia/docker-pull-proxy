@@ -1,1 +1,1 @@
-blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
+ghcr.io/cute-angelia/blinko:1.0.0 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.0
