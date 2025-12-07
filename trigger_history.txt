@@ -2,14 +2,13 @@
 minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malibest/minio:RELEASE.2022-05-26T05-48-41Z
 
 # ⭐ https://github.com/cute-angelia/bookmark 书签工具
-ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/malibest/bookmark:latest
 ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/mybest/bookmark:latest
 
 # ⭐ https://github.com/cute-angelia/wol-fork 局域网唤醒
 ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
 
 # ⭐ 服务监控
-louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/malibest/uptime-kuma:latest
+louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/mybest/uptime-kuma:latest
 
 # ⭐ 音乐系统🎵
 deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:latest
@@ -38,7 +37,7 @@ mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/malibest/mysql:8.2.0
 # ⭐ mysql a3080 账号 
 mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/mybest/mysql:8.2.0
 
-# r⭐ edis 
+# ⭐ redis 
 redis:7.2.0-alpine registry.cn-hangzhou.aliyuncs.com/mybest/redis:7.2.0-alpine
 
 # ⭐ meilisearch 美丽搜索
