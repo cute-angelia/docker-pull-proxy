@@ -1,22 +1,22 @@
-# minio
+# ⭐ minio
 minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malibest/minio:RELEASE.2022-05-26T05-48-41Z
 
-# https://github.com/cute-angelia/bookmark 书签工具
+# ⭐ https://github.com/cute-angelia/bookmark 书签工具
 ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/malibest/bookmark:latest
 
-# https://github.com/cute-angelia/wol-fork 局域网唤醒
+# ⭐ https://github.com/cute-angelia/wol-fork 局域网唤醒
 ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest
 
-# 服务监控
+# ⭐ 服务监控
 louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/malibest/uptime-kuma:latest
 
-# 音乐系统🎵
+# ⭐ 音乐系统🎵
 deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:latest
 
-# 音乐标签
+# ⭐ 音乐标签
 xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag_web:latest
 
-# 远程控制
+# ⭐ 远程控制
 rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/malibest/rustdesk-server:latest
 
 # 个人财物记账系统
@@ -25,7 +25,7 @@ xdbin/beancount-gs:latest registry.cn-hangzhou.aliyuncs.com/malibest/xdbin/beanc
 # 使用Docker搭建自己的Bitwarden密码管理服务
 vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/malibest/vaultwarden-server:latest
 
-# chromedp 浏览器
+# ⭐ chromedp 浏览器
 chromedp/headless-shell:latest registry.cn-hangzhou.aliyuncs.com/malibest/chromedp-headless-shell:latest
 
 # stork python
@@ -34,19 +34,20 @@ mayanghua/instock:latest registry.cn-hangzhou.aliyuncs.com/malibest/instock:late
 # mysql 8.2.0
 mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/malibest/mysql:8.2.0
 
-# mysql a3080 账号 mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/mybest/mysql:8.2.0
+# ⭐ mysql a3080 账号 
+mysql:8.2.0 registry.cn-hangzhou.aliyuncs.com/mybest/mysql:8.2.0
 
-# redis 
+# r⭐ edis 
 redis:7.2.0-alpine registry.cn-hangzhou.aliyuncs.com/mybest/redis:7.2.0-alpine
 
-# meilisearch 美丽搜索
+# ⭐ meilisearch 美丽搜索
 getmeili/meilisearch:v1.19.1 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.19.1
 getmeili/meilisearch:v1.23.0 registry.cn-hangzhou.aliyuncs.com/mybest/meilisearch:v1.23.0
 
-# mango
+# ⭐ mango
 hkalexling/mango:v0.27.0 registry.cn-hangzhou.aliyuncs.com/mybest/mango:v0.27.0
 
-# blinko
+# ⭐ blinko
 blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
 # blinko 只有这个版本
 blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
@@ -54,17 +55,20 @@ blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
 ghcr.io/cute-angelia/blinko:1.0.0 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.0
 ghcr.io/cute-angelia/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.3
 
-# postgres
+# ⭐ postgres
 postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14
 
 # reader 放弃了，java的
 hectorqin/reader:latest registry.cn-hangzhou.aliyuncs.com/mybest/reader:latest
 
-# portainer
+# ⭐ portainer
 portainer/portainer-ce:2.33.5 registry.cn-hangzhou.aliyuncs.com/mybest/portainer-ce:2.33.5
 
-# aria2-pro
+# ⭐ aria2-pro
 p3terx/aria2-pro:latest registry.cn-hangzhou.aliyuncs.com/mybest/aria2-pro:latest
 
-# imgproxy
+# ⭐ imgproxy
 ghcr.io/imgproxy/imgproxy:latest registry.cn-hangzhou.aliyuncs.com/mybest/imgproxy:latest
+
+# ⭐ jellyfin
+nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/mybest/jellyfin:latest

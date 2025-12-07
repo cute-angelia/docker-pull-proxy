@@ -1,1 +1,1 @@
-ghcr.io/imgproxy/imgproxy:latest registry.cn-hangzhou.aliyuncs.com/mybest/imgproxy:latest
+nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/mybest/jellyfin:latest
