@@ -52,6 +52,7 @@ blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
 blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
 # 我自己打包了一个版本
 ghcr.io/cute-angelia/blinko:1.0.0 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.0
+ghcr.io/cute-angelia/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.3
 
 # postgres
 postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14
@@ -59,3 +60,5 @@ postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14
 # reader 放弃了，java的
 hectorqin/reader:latest registry.cn-hangzhou.aliyuncs.com/mybest/reader:latest
 
+# portainer
+portainer/portainer-ce:2.33.5 registry.cn-hangzhou.aliyuncs.com/mybest/portainer-ce:2.33.5
