@@ -3,6 +3,7 @@ minio/minio:RELEASE.2022-05-26T05-48-41Z registry.cn-hangzhou.aliyuncs.com/malib
 
 # ⭐ https://github.com/cute-angelia/bookmark 书签工具
 ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/malibest/bookmark:latest
+ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/mybest/bookmark:latest
 
 # ⭐ https://github.com/cute-angelia/wol-fork 局域网唤醒
 ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/wol-fork:latest

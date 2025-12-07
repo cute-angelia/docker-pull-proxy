@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/mybest/jellyfin:latest
+ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/mybest/bookmark:latest
