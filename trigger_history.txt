@@ -72,3 +72,6 @@ ghcr.io/imgproxy/imgproxy:latest registry.cn-hangzhou.aliyuncs.com/mybest/imgpro
 
 # ⭐ jellyfin
 nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/mybest/jellyfin:latest
+
+# 图片水印
+registry.cn-beijing.aliyuncs.com/funnyzak/watermark:latest registry.cn-hangzhou.aliyuncs.com/mybest/watermark:latest

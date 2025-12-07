@@ -1,1 +1,1 @@
-louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/mybest/uptime-kuma:latest
+registry.cn-beijing.aliyuncs.com/funnyzak/watermark:latest registry.cn-hangzhou.aliyuncs.com/mybest/watermark:latest
