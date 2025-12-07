@@ -62,3 +62,9 @@ hectorqin/reader:latest registry.cn-hangzhou.aliyuncs.com/mybest/reader:latest
 
 # portainer
 portainer/portainer-ce:2.33.5 registry.cn-hangzhou.aliyuncs.com/mybest/portainer-ce:2.33.5
+
+# aria2-pro
+p3terx/aria2-pro:latest registry.cn-hangzhou.aliyuncs.com/mybest/aria2-pro:latest
+
+# imgproxy
+ghcr.io/imgproxy/imgproxy:latest registry.cn-hangzhou.aliyuncs.com/mybest/imgproxy:latest

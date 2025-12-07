@@ -1,1 +1,1 @@
-p3terx/aria2-pro:latest registry.cn-hangzhou.aliyuncs.com/mybest/aria2-pro:latest
+ghcr.io/imgproxy/imgproxy:latest registry.cn-hangzhou.aliyuncs.com/mybest/imgproxy:latest
