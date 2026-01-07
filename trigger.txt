@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/bookmark:latest registry.cn-hangzhou.aliyuncs.com/mybest/bookmark:latest
+deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/mybest/navidrome:latest
