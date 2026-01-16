@@ -11,7 +11,7 @@ ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/malibest/
 louislam/uptime-kuma:latest registry.cn-hangzhou.aliyuncs.com/mybest/uptime-kuma:latest
 
 # ⭐ 音乐系统🎵
-deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/malibest/navidrome:latest
+deluan/navidrome:latest registry.cn-hangzhou.aliyuncs.com/mybest/navidrome:latest
 
 # ⭐ 音乐标签
 xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/malibest/music_tag_web:latest
