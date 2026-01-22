@@ -54,6 +54,7 @@ blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
 # 我自己打包了一个版本
 ghcr.io/cute-angelia/blinko:1.0.0 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.0
 ghcr.io/cute-angelia/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.3
+ghcr.io/cute-angelia/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.5
 
 # ⭐ postgres
 postgres:14 registry.cn-hangzhou.aliyuncs.com/mybest/postgres:14
@@ -75,3 +76,6 @@ nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/mybest/jellyfin:lat
 
 # 图片水印 
 registry.cn-beijing.aliyuncs.com/funnyzak/watermark:latest registry.cn-hangzhou.aliyuncs.com/mybest/watermark:latest
+
+# 数据库备份
+databasus/databasus:latest registry.cn-hangzhou.aliyuncs.com/mybest/databasus:latest
