@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.5
+ghcr.io/teojs/clock-dashboard:latest registry.cn-hangzhou.aliyuncs.com/mybest/clock-dashboard:latest
