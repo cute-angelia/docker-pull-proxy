@@ -51,6 +51,7 @@ hkalexling/mango:v0.27.0 registry.cn-hangzhou.aliyuncs.com/mybest/mango:v0.27.0
 blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
 # blinko 只有这个版本
 blinkospace/blinko:1.6.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.6.3
+blinkospace/blinko:1.8.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.8.3
 # 我自己打包了一个版本
 ghcr.io/cute-angelia/blinko:1.0.0 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.0
 ghcr.io/cute-angelia/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.0.3
@@ -79,3 +80,6 @@ registry.cn-beijing.aliyuncs.com/funnyzak/watermark:latest registry.cn-hangzhou.
 
 # 数据库备份
 databasus/databasus:latest registry.cn-hangzhou.aliyuncs.com/mybest/databasus:latest
+
+# 时钟 ipad
+ghcr.io/teojs/clock-dashboard:latest registry.cn-hangzhou.aliyuncs.com/mybest/clock-dashboard:latest
