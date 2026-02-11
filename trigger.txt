@@ -1,1 +1,3 @@
-blinkospace/blinko:1.8.3 registry.cn-hangzhou.aliyuncs.com/mybest/blinko:1.8.3
+blinkospace/blinko:latest registry.cn-hangzhou.aliyuncs.com/mybest/blinko:latest
+tailscale/tailscale:stable registry.cn-hangzhou.aliyuncs.com/mybest/tailscale:stable
+netdata/netdata:latest registry.cn-hangzhou.aliyuncs.com/mybest/netdata:latest
