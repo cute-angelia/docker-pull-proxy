@@ -84,3 +84,9 @@ databasus/databasus:latest registry.cn-hangzhou.aliyuncs.com/mybest/databasus:la
 
 # 时钟 ipad
 ghcr.io/teojs/clock-dashboard:latest registry.cn-hangzhou.aliyuncs.com/mybest/clock-dashboard:latest
+
+# 内网穿透
+tailscale/tailscale:stable registry.cn-hangzhou.aliyuncs.com/mybest/tailscale:stable
+
+# 流量监控-服务端
+netdata/netdata:latest registry.cn-hangzhou.aliyuncs.com/mybest/netdata:latest
