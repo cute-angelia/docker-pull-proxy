@@ -90,3 +90,6 @@ tailscale/tailscale:stable registry.cn-hangzhou.aliyuncs.com/mybest/tailscale:st
 
 # 流量监控-服务端
 netdata/netdata:latest registry.cn-hangzhou.aliyuncs.com/mybest/netdata:latest
+
+# 笔记换这个
+neosmemo/memos:stable registry.cn-hangzhou.aliyuncs.com/mybest/memos:stable
