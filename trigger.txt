@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/memos:latest registry.cn-hangzhou.aliyuncs.com/mybest/memos:1.0.3
+lscr.io/linuxserver/brave:latest registry.cn-hangzhou.aliyuncs.com/mybest/brave:latest
