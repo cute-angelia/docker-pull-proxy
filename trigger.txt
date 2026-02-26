@@ -1,1 +1,1 @@
-docker pull ghcr.io/cute-angelia/memos-cute:latest registry.cn-hangzhou.aliyuncs.com/mybest/memos-cute:latest
+ghcr.io/cute-angelia/memos-cute:latest registry.cn-hangzhou.aliyuncs.com/mybest/memos-cute:latest
