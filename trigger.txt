@@ -1,1 +1,1 @@
-lscr.io/linuxserver/brave:latest registry.cn-hangzhou.aliyuncs.com/mybest/brave:latest
+dullage/flatnotes:latest registry.cn-hangzhou.aliyuncs.com/mybest/flatnotes:latest
