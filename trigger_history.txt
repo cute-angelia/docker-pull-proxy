@@ -91,5 +91,8 @@ tailscale/tailscale:stable registry.cn-hangzhou.aliyuncs.com/mybest/tailscale:st
 # 流量监控-服务端
 netdata/netdata:latest registry.cn-hangzhou.aliyuncs.com/mybest/netdata:latest
 
-# 笔记换这个
+# 笔记换这个: 有点不好，展示大问题阿， 图片也没法插入，非要windcss 也没法定制
 neosmemo/memos:stable registry.cn-hangzhou.aliyuncs.com/mybest/memos:stable
+
+# 笔记
+dullage/flatnotes:latest registry.cn-hangzhou.aliyuncs.com/mybest/flatnotes:latest
