@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/mybest/qbittorrent:latest
+ghcr.io/cute-angelia/memos-cute:latest registry.cn-hangzhou.aliyuncs.com/mybest/memos-cute:latest

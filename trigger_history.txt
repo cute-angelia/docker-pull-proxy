@@ -98,3 +98,6 @@ dullage/flatnotes:latest registry.cn-hangzhou.aliyuncs.com/mybest/flatnotes:late
 neosmemo/memos:stable registry.cn-hangzhou.aliyuncs.com/mybest/memos:stable
 # 既然不行就魔改它
 ghcr.io/cute-angelia/memos-cute:latest registry.cn-hangzhou.aliyuncs.com/mybest/memos-cute:latest
+
+# qbittorrent
+linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/mybest/qbittorrent:latest
