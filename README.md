@@ -45,7 +45,7 @@ docker tag  registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine nginx:alpin
 ```
 
 ## 自建 docker 镜像加速
-
+1
 
 ### 使用 cf worker 创建
 
