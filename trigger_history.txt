@@ -101,3 +101,6 @@ ghcr.io/cute-angelia/memos-cute:latest registry.cn-hangzhou.aliyuncs.com/mybest/
 
 # qbittorrent
 linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/mybest/qbittorrent:latest
+
+# 通达信api
+ghcr.io/cute-angelia/tdx-api:latest registry.cn-hangzhou.aliyuncs.com/mybest/tdx-api:latest
