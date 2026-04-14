@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/tdx-api:latest registry.cn-hangzhou.aliyuncs.com/mybest/tdx-api:latest
+ghcr.nju.edu.cn/usagi-org/ai-goofish:latest registry.cn-hangzhou.aliyuncs.com/mybest/ai-goofish:latest
