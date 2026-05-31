@@ -104,3 +104,6 @@ linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/mybest/qbittorr
 
 # 通达信api update
 ghcr.io/cute-angelia/tdx-api:latest registry.cn-hangzhou.aliyuncs.com/mybest/tdx-api:latest
+
+# 闲鱼
+ghcr.nju.edu.cn/usagi-org/ai-goofish:latest registry.cn-hangzhou.aliyuncs.com/mybest/ai-goofish:latest

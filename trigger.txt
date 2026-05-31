@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/usagi-org/ai-goofish:latest registry.cn-hangzhou.aliyuncs.com/mybest/ai-goofish:latest
+ghcr.io/cute-angelia/mango:latest registry.cn-hangzhou.aliyuncs.com/mybest/mango:latest
