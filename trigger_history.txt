@@ -107,3 +107,6 @@ ghcr.io/cute-angelia/tdx-api:latest registry.cn-hangzhou.aliyuncs.com/mybest/tdx
 
 # 闲鱼
 ghcr.nju.edu.cn/usagi-org/ai-goofish:latest registry.cn-hangzhou.aliyuncs.com/mybest/ai-goofish:latest
+
+# mango 修复问题
+ghcr.io/cute-angelia/mango:latest registry.cn-hangzhou.aliyuncs.com/mybest/mango:latest
