@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/mango:latest registry.cn-hangzhou.aliyuncs.com/mybest/mango:latest
+lscr.io/linuxserver/resilio-sync:latest registry.cn-hangzhou.aliyuncs.com/mybest/resilio-sync:latest
