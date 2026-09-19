@@ -1,1 +1,1 @@
-ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/mybest/wol-fork:latest
+ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/mybest/wol-fork:v2.0.3
