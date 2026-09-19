@@ -1,1 +1,1 @@
-lscr.io/linuxserver/resilio-sync:latest registry.cn-hangzhou.aliyuncs.com/mybest/resilio-sync:latest
+ghcr.io/cute-angelia/wol-fork:latest registry.cn-hangzhou.aliyuncs.com/mybest/wol-fork:latest
