@@ -1,1 +1,1 @@
-vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/mybest/vaultwarden/server:latest
+vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/mybest/vaultwarden:latest
