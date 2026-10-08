@@ -113,3 +113,6 @@ lscr.io/linuxserver/resilio-sync:latest registry.cn-hangzhou.aliyuncs.com/mybest
 
 # 二次认证
 vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/mybest/vaultwarden:latest
+
+# nas 导航
+ghcr.io/cute-angelia/nas-nav:latest registry.cn-hangzhou.aliyuncs.com/mybest/nas-nav:latest

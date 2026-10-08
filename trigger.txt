@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest registry.cn-hangzhou.aliyuncs.com/mybest/rustdesk-server:latest
+ghcr.io/cute-angelia/nas-nav:latest registry.cn-hangzhou.aliyuncs.com/mybest/nas-nav:latest
