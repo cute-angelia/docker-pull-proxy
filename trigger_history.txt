@@ -93,6 +93,7 @@ dullage/flatnotes:latest registry.cn-hangzhou.aliyuncs.com/mybest/flatnotes:late
  
 # 笔记换这个: 有点不好，展示大问题阿， 图片也没法插入，非要windcss 也没法定制
 neosmemo/memos:stable registry.cn-hangzhou.aliyuncs.com/mybest/memos:stable
+
 # 既然不行就魔改它
 ghcr.io/cute-angelia/memos-cute:latest registry.cn-hangzhou.aliyuncs.com/mybest/memos-cute:latest
 
