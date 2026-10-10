@@ -1,1 +1,2 @@
-ghcr.io/cute-angelia/nas-nav:latest registry.cn-hangzhou.aliyuncs.com/mybest/nas-nav:latest
+ghcr.io/acmesh-official/acme.sh:latest registry.cn-hangzhou.aliyuncs.com/mybest/acme.sh:latest
+

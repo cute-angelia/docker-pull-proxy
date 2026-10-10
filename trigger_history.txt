@@ -117,3 +117,6 @@ vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/mybest/vaultwarden:l
 
 # nas 导航 
 ghcr.io/cute-angelia/nas-nav:latest registry.cn-hangzhou.aliyuncs.com/mybest/nas-nav:latest
+
+# 自动证书
+ghcr.io/acmesh-official/acme.sh:latest registry.cn-hangzhou.aliyuncs.com/mybest/acme.sh:latest
