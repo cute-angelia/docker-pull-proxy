@@ -120,3 +120,6 @@ ghcr.io/cute-angelia/nas-nav:latest registry.cn-hangzhou.aliyuncs.com/mybest/nas
 
 # 自动证书
 ghcr.io/acmesh-official/acme.sh:latest registry.cn-hangzhou.aliyuncs.com/mybest/acme.sh:latest
+
+# nginx ui
+uozi/nginx-ui registry.cn-hangzhou.aliyuncs.com/mybest/nginx_ui:latest
